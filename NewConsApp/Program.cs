@@ -11,6 +11,7 @@ namespace NewConsApp
         static void Main(string[] args)
         {
             Console.WriteLine("123");
+            Console.WriteLine("4");
         }
     }
 }
