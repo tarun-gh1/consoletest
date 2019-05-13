@@ -12,6 +12,7 @@ namespace NewConsApp
         {
             Console.WriteLine("123");
             Console.WriteLine("4");
+            Console.WriteLine("5");
         }
     }
 }
